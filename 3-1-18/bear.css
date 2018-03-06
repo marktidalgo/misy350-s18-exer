@@ -1,0 +1,36 @@
+body {
+  background : #FBF9ED;
+}
+
+h1 {
+  padding-top : 50px;
+  color : #F49C6A;
+  text-align  : center;
+  font-family : Georgia;
+  font-size   : 5em;
+
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family : 'Courier New';
+
+}
+
+h3 {
+  font-family : Helvetica;
+  font-weight : 200;
+}
+
+p {
+  font-family : Georgia;
+}
+
+#habitat {
+  color: white;
+  background-image: url("https://s3.amazonaws.com/misy350/bg-tree.jpg")
+}
+
+.img-circle {
+    border-radius: 100%;
+}
